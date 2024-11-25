@@ -1,7 +1,4 @@
--- 401106674 :یسنا نوشیروانی 
--- آیدا جلالی : 401170542
-
--- CREATE DATABASE hiring;
+CREATE DATABASE hiring;
 
 CREATE Type acceptence_status_type AS ENUM ('accepted','rejected','withdrawed');
 CREATE TYPE session_status_type AS ENUM('accepted','rejected','canceled','pending');
