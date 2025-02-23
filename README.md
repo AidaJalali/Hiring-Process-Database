@@ -66,6 +66,7 @@ To make sure the database runs smoothly, we’ve added indexing to the most impo
 1. **Clone the Repository**:
    ```bash
    git clone git clone https://github.com/your-username/hiring-process-database.git
+   cd Hiring-Process-Database
    ```
 
 2. **Set Up the Database**:
