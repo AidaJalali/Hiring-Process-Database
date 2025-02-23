@@ -1,4 +1,4 @@
-# Hiring Process Database - Database Course Project
+# Hiring Process Database
 
 This project is a database system designed to help companies manage their hiring process more efficiently. It covers everything from job postings and applicant tracking to interviews, skill evaluations, and job offers. Built using **PostgreSQL**, the database includes advanced features like custom data types, indexing for better performance, and complex queries to handle real-world hiring scenarios.
 
